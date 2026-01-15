@@ -1,0 +1,20 @@
+# data 폴더 전체(하위 포함) 무시
+data/
+
+# Python virtualenv
+.venv/
+venv/
+env/
+
+# env file
+.env
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
